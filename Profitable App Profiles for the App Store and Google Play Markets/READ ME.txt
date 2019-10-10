@@ -1,0 +1,5 @@
+#Guided Project from DataQuest.io
+This guided project focused on examination of data Apple App Store and Google Play Markets and utilizing the data we could discern what apps would be best worth examing that are free and english to see what apps make the most money.
+
+#Todo
+Expand / finish the documentation
